@@ -156,7 +156,7 @@ console.log(getAllPropValues(products, 'category')); // []
 
 Напиши функцию `calculateTotalPrice(allProducts, productName)`, которая получает
 массив объектов и имя продукта (значение свойства `name`). Возвращает общую
-стоимость продукта (цена \* количество).
+стоимость продукта (цена * количество).
 
 ```js
 const products = [
